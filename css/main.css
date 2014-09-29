@@ -1,0 +1,54 @@
+body {
+    width: 550px;
+    margin: 0 auto;
+    background-color: gray;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+#header,#nav,#main,#footer {
+    width: 100%;
+    background-color: white;
+}
+
+#nav a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+#nav {
+    text-align: center;
+    background-color: gray;
+}
+
+article h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+#header img {
+    width: 100%;
+}
+
+#nav img {
+    margin: 2px;
+    width: 30px;
+    height: 20px;    
+}
+
+main img {
+    width: 350px;   
+}
+
+#coco {
+    text-align: center;
+}
+
+main article {
+    padding: 0 20px;
+    text-align: justify;
+}
+
+footer div {
+    padding: 5px 20px;
+}
