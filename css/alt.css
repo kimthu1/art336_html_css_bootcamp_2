@@ -2,7 +2,7 @@ body {
     width: 550px;
     margin: 0 auto;
     background-color: gray;
-    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-family:'Shadows Into Light';
 }
 #header,#nav,#main,#footer {
     width: 100%;
@@ -23,7 +23,7 @@ body {
 article h1 {
     font-size: 50px;
     text-align: center;
-    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-family:'Shadows Into Light';
 }
 
 #header img {
